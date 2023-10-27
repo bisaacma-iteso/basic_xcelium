@@ -1,0 +1,1 @@
+xrun -clean -file $WORKAREA/src/xcelium/build.opts -input $WORKAREA/src/xcelium/probes.tcl
