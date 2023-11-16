@@ -1,3 +1,6 @@
+# UVM Home
+-uvmhome CDNS-1.2
+
 # src folders
 -incdir $WORKAREA/src
 
